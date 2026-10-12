@@ -1,0 +1,11 @@
+PySide6
+ultralytics
+opencv-python
+numpy
+pyserial
+# vmbpy: requires the Allied Vision Vimba X SDK (see README)
+vmbpy
+# analysis scripts
+matplotlib
+pillow
+openpyxl
