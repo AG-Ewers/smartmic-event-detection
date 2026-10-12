@@ -53,4 +53,5 @@ python main.py
 
 ## License
 
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 <!-- License to be chosen together with the Ewers lab, e.g. MIT -->
